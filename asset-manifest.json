@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shoe.github.io/static/css/main.82f5a136.css",
+    "main.js": "/shoe.github.io/static/js/main.4b8b85a9.js",
+    "static/js/453.30e735ba.chunk.js": "/shoe.github.io/static/js/453.30e735ba.chunk.js",
+    "index.html": "/shoe.github.io/index.html",
+    "main.82f5a136.css.map": "/shoe.github.io/static/css/main.82f5a136.css.map",
+    "main.4b8b85a9.js.map": "/shoe.github.io/static/js/main.4b8b85a9.js.map",
+    "453.30e735ba.chunk.js.map": "/shoe.github.io/static/js/453.30e735ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82f5a136.css",
+    "static/js/main.4b8b85a9.js"
+  ]
+}
